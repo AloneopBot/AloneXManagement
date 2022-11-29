@@ -70,7 +70,7 @@ class Config(object):
     INFOPIC = True
     URL = None
     SPAMWATCH_API = ""
-    SPAMWATCH_SUPPORT_CHAT = "@AbishnoiMF"
+    SPAMWATCH_SUPPORT_CHAT = "@AloneXSuport"
 
     REDIS_URL = ""
 
@@ -92,7 +92,7 @@ class Config(object):
     BAN_STICKER = ""
     ALLOW_EXCL = True
     CASH_API_KEY = "NAI H BRO"
-    TIME_API_KEY = "ABISHNOI"
+    TIME_API_KEY = "ALONE"
     WALL_API = "F-OFF"
     AI_API_KEY = "LOVEYOU"
     BL_CHATS = []
