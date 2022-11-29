@@ -101,7 +101,7 @@ $ python3 -m ᴀʟᴏɴᴇ
 </h3>
  : ➻
 
-➥ [𝐀ʟᴏɴᴇ] × <a href="https://github.com/ALONE_WAS_BOT" alt="ALONE"> <img src="https://t.me/ALONE_WAS_BOT" /></a>  
+➥ [𝐀ʟᴏɴᴇ] × <a href="https://github.com/AloneopBot" alt="ALONE"> <img src="https://img.shields.io/badge/ALONE-90302f?logo=github" /></a>  
 
 ➥ [𝐀ʟᴏɴᴇ𝐔ᴘᴅᴀᴛᴇs] × <a href="https://t.me/AloneXSuport" alt="Ignitetech"> <img src="https://img.shields.io/badge/HW-90302f?logo=github" /></a>  
 
