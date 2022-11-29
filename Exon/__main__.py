@@ -776,7 +776,7 @@ def main():
 ㅤ🥀 {dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ .....
 
 ━━━━━━━━━━━━━
-⍟ **ᴍʏ ᴏᴡɴᴇʀ :** [𝐀ʙɪꜱʜɴᴏɪ](https://t.me/{OWNER_USERNAME})
+⍟ **ᴍʏ ᴏᴡɴᴇʀ :** [𝐀ʟᴏɴᴇ](https://t.me/ALONE_WAS_BOT)
 ⍟ **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{lver}`
 ⍟ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tver}`
 ⍟ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pver}`
@@ -848,7 +848,7 @@ def main():
 
 if __name__ == "__main__":
     LOGGER.info(
-        f"sᴜᴄᴄᴇssғᴜʟʟʏ ʟᴏᴀᴅᴇᴅ ᴍᴏᴅᴜʟᴇS Any issu JOIN @AbishnoiMF : {str(ALL_MODULES)}"
+        f"sᴜᴄᴄᴇssғᴜʟʟʏ ʟᴏᴀᴅᴇᴅ ᴍᴏᴅᴜʟᴇS Any issu JOIN @AloneXSuport : {str(ALL_MODULES)}"
     )
     telethn.start(bot_token=TOKEN)
     pgram.start()
